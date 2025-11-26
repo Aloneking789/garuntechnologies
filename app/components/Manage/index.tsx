@@ -101,15 +101,15 @@ const Manage = () => {
 
                 <div className='md:flex md:justify-around mt-20'>
                     <div className='flex gap-5 justify-center md:justify-start'>
-                        <Image src="/images/manage/right.svg" alt="right-icon" width={21} height={14} />
+                        <Image src="https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/manage/right.svg" alt="right-icon" width={21} height={14} />
                         <h4 className='text-lg font-semibold'>AI Integration</h4>
                     </div>
                     <div className='flex gap-5 justify-center md:justify-start'>
-                        <Image src="/images/manage/right.svg" alt="right-icon" width={21} height={14} />
+                        <Image src="https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/manage/right.svg" alt="right-icon" width={21} height={14} />
                         <h4 className='text-lg font-semibold'>Full Deployment Support</h4>
                     </div>
                     <div className='flex gap-5 justify-center md:justify-start'>
-                        <Image src="/images/manage/right.svg" alt="right-icon" width={21} height={14} />
+                        <Image src="https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/manage/right.svg" alt="right-icon" width={21} height={14} />
                         <h4 className='text-lg font-semibold'>Ongoing Maintenance</h4>
                     </div>
                 </div>
@@ -117,7 +117,7 @@ const Manage = () => {
 
                 <div className='mt-6 relative'>
                     <div className='dance-text mb-5'>get 3 months free</div>
-                    <Image src="/images/manage/toggle.svg" alt="toggle-image" width={24} height={24} className="toggleImage" />
+                    <Image src="https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/manage/toggle.svg" alt="toggle-image" width={24} height={24} className="toggleImage" />
                     <div className='flex justify-center'>
                         <h3 className='text-sm font-medium mr-5'>Billed Yearly</h3>
                         <Switch

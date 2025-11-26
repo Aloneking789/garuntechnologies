@@ -22,7 +22,7 @@ const postData: DataType[] = [
         heading2: 'Making Roads Safer!',
         name: "Published by Garun Technologies",
         date: '2024',
-        imgSrc: '/images/articles/article.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article.png',
     },
     {
         time: "5 min",
@@ -30,7 +30,7 @@ const postData: DataType[] = [
         heading2: 'Modern Applications',
         name: "Published by Garun Technologies",
         date: '2024',
-        imgSrc: '/images/articles/article2.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article2.png',
     },
     {
         time: "5 min",
@@ -38,7 +38,7 @@ const postData: DataType[] = [
         heading2: 'Anime Dating Revolution',
         name: "Published by Garun Technologies",
         date: '2024',
-        imgSrc: '/images/articles/article3.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article3.png',
     },
     {
         time: "5 min",
@@ -46,7 +46,7 @@ const postData: DataType[] = [
         heading2: 'Connecting Startups',
         name: "Published by Garun Technologies",
         date: '2024',
-        imgSrc: '/images/articles/article.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article.png',
     },
     {
         time: "5 min",
@@ -54,7 +54,7 @@ const postData: DataType[] = [
         heading2: 'Practices for 2025',
         name: "Published by Garun Technologies",
         date: '2025',
-        imgSrc: '/images/articles/article2.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article2.png',
     },
     {
         time: "5 min",
@@ -62,7 +62,7 @@ const postData: DataType[] = [
         heading2: 'AI-Powered Apps',
         name: "Published by Garun Technologies",
         date: '2025',
-        imgSrc: '/images/articles/article3.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/articles/article3.png',
     },
 ]
 

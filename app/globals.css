@@ -119,13 +119,13 @@ html {
 }
 
 .bg-digital {
-  background-image: url("/images/digital/bg.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/digital/bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-build {
-  background-image: url('/images/beliefs/bg.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/beliefs/bg.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: unset;
@@ -151,7 +151,7 @@ html {
 }
 
 .bg-beliefs {
-  background-image: url('/images/beliefs/swirls.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/beliefs/swirls.svg');
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
@@ -163,13 +163,13 @@ html {
 }
 
 .bg-wework {
-  background-image: url('/images/wework/elipse.svg'), url('/images/wework/vector.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/elipse.svg'), url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/vector.svg');
   background-repeat: no-repeat, no-repeat;
   background-position: bottom, top right;
 }
 
 .bg-featured {
-  background-image: url('/images/wework/vector.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/vector.svg');
   background-repeat: no-repeat;
   background-position: 100% 35%;
 }
@@ -189,13 +189,13 @@ html {
 }
 
 .faq-bg {
-  background-image: url('/images/faq/swirl.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/faq/swirl.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-testimonial {
-  background-image: url('/images/wework/elipse.svg'), url('/images/testimonial/boy.svg'), url('/images/testimonial/girl.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/elipse.svg'), url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/boy.svg'), url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/girl.svg');
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: 55%, 84% 26%, 12% 18%;
 }
@@ -236,7 +236,7 @@ html {
 }
 
 .bg-joinus {
-  background-image: url('/images/joinus/horn.svg'), url('/images/joinus/paint.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/joinus/horn.svg'), url('https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/joinus/paint.svg');
   background-repeat: no-repeat, no-repeat;
   background-position: 84% 109%, 12% 18%;
 }

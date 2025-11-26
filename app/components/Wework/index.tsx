@@ -15,32 +15,32 @@ const postData: DataType[] = [
     {
         profession: 'Frontend',
         name: 'React.js',
-        imgSrc: '/images/wework/abhay.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/abhay.png',
     },
     {
         profession: 'Backend',
         name: 'Node.js',
-        imgSrc: '/images/wework/abhi.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/abhi.png',
     },
     {
         profession: 'Database',
         name: 'MongoDB',
-        imgSrc: '/images/wework/prashant.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/prashant.jpg',
     },
     {
         profession: 'Mobile',
         name: 'React Native',
-        imgSrc: '/images/wework/diwa.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/diwa.jpg',
     },
     {
         profession: 'Backend',
         name: 'Express.js',
-        imgSrc: '/images/wework/adarsh.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/adarsh.png',
     },
     {
         profession: 'Cloud',
         name: 'Firebase',
-        imgSrc: '/images/wework/vaishnavi.jpeg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/wework/vaishnavi.jpeg',
     },
 ]
 

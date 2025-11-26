@@ -14,22 +14,22 @@ interface DataType {
 const postData: DataType[] = [
     {
         heading: 'Roadeye - Road Safety Mobile App',
-        imgSrc: '/images/featured/feat1.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/featured/feat1.jpg',
         link: 'https://play.google.com/store/apps/details?id=com.aloneking798.ROADEYE&hl=en_IN'
     },
     {
         heading: 'The Origin Chapter - Connect with Startups',
-        imgSrc: '/images/featured/feat2.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/featured/feat2.jpg',
         link: 'https://play.google.com/store/apps/details?id=com.theoriginchapter&hl=en_IN'
     },
     {
         heading: 'Koiswipe - Anime Dating Application',
-        imgSrc: '/images/featured/feat1.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/featured/feat1.jpg',
         link: 'https://play.google.com/store/apps/details?id=com.koiswipe&hl=en_IN'
     },
     {
         heading: 'AI-Powered Business Automation Solutions',
-        imgSrc: '/images/featured/feat2.jpg',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/featured/feat2.jpg',
     }
 ]
 

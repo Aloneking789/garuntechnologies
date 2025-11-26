@@ -18,37 +18,37 @@ const postData: DataType[] = [
         name: "Rajesh Kumar",
         profession: 'Founder, TechStart Solutions',
         comment: 'Garun Technologies delivered our mobile app on time with exceptional quality. Their AI integration capabilities transformed our business operations completely.',
-        imgSrc: '/images/testimonial/blu.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/blu.png',
     },
     {
         name: "Priya Sharma",
         profession: 'CEO, Digital Innovations Pvt Ltd',
         comment: 'The team at Garun Technologies is highly professional. They developed our React Native app with smooth deployment and excellent post-launch support.',
-        imgSrc: '/images/testimonial/red.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/red.png',
     },
     {
         name: "Amit Verma",
         profession: 'CTO, NextGen Enterprises',
         comment: 'Outstanding work on our web application! Their expertise in full-stack development and AI automation helped us scale our platform efficiently.',
-        imgSrc: '/images/testimonial/blck.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/blck.png',
     },
     {
         name: "Neha Gupta",
         profession: 'Product Manager, StartupHub',
         comment: 'Working with Garun Technologies was a great experience. They understood our vision and delivered a feature-rich mobile application that our users love.',
-        imgSrc: '/images/testimonial/chair.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/chair.png',
     },
     {
         name: "Sanjay Patel",
         profession: 'Director, CloudTech Systems',
         comment: 'Their AI-based solutions are cutting-edge. The automation they implemented saved us countless hours and significantly improved our workflow efficiency.',
-        imgSrc: '/images/testimonial/db.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/db.png',
     },
     {
         name: "Kavita Singh",
         profession: 'Founder, EduConnect India',
         comment: 'Garun Technologies built our educational platform with amazing attention to detail. Their backend expertise and API development skills are top-notch.',
-        imgSrc: '/images/testimonial/brown.png',
+        imgSrc: 'https://cdn.jsdelivr.net/gh/Aloneking789/garuntechnologies@main/public/images/testimonial/brown.png',
     },
 ]
 
