@@ -40,7 +40,7 @@ function SampleNextArrow(props: { className: any; style: any; onClick: any; }) {
     return (
         <div
             className={className}
-            style={{ ...style, display: "flex", justifyContent: "center", alignItems: "center" , background: "rgba(255, 255, 255, 0.3)", padding: "28px", borderRadius: "20px" }}
+            style={{ ...style, display: "flex", justifyContent: "center", alignItems: "center", background: "rgba(255, 255, 255, 0.3)", padding: "28px", borderRadius: "20px" }}
             onClick={onClick}
         />
     );
@@ -51,7 +51,7 @@ function SamplePrevArrow(props: { className: any; style: any; onClick: any; }) {
     return (
         <div
             className={className}
-            style={{ ...style, display: "flex", justifyContent: "center", alignItems: "center" , background: "rgba(255, 255, 255, 0.3)", padding: "28px", borderRadius: "20px" }}
+            style={{ ...style, display: "flex", justifyContent: "center", alignItems: "center", background: "rgba(255, 255, 255, 0.3)", padding: "28px", borderRadius: "20px" }}
             onClick={onClick}
         />
     );
